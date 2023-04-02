@@ -1,4 +1,4 @@
-![alt text](img/readme.png "Logo Title Text 1")
+![alt text](images/people-03.png "Team member")
 
 # Orbitz People
 
